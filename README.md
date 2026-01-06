@@ -24,6 +24,7 @@ Styling: Tailwind CSS
 Linting: ESLint
 
 Storage (Optional Integration): MinIO (S3-compatible object storage)
+
 ⚙️ Application Workflow
 
 Upload Dataset
